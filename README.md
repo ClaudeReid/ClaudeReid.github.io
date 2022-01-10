@@ -1,3 +1,3 @@
 # ClaudeReid.github.io
 
-# this is a test
+# Claude Reid 190 CSCE 190 Course Site
