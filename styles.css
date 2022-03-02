@@ -6,6 +6,8 @@ body{
 .assignment {
  background: red;
  padding: 10px;
+ margin: 10px;
+ background: lightgrey;
 }
 
 .assignment img {
